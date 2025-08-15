@@ -1,0 +1,5 @@
+project_id   = "nimble-petal-465609-a0"
+region       = "us-central1"
+zone         = "us-central1-a"
+vm_name      = "cloudside-vm"
+cluster_name = "anthos-target-cluster"
